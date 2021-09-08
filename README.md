@@ -1,6 +1,7 @@
+
+![Banner](https://user-images.githubusercontent.com/68930913/132567937-3e25e9a4-3fe4-49ef-9f54-dc28e8d75866.jpeg)
 ### Hi there 👋, my name is Ana Lícia
 #### I am a Cybersecurity Specialist
-![I am a Cybersecurity Specialist](![Banner](https://user-images.githubusercontent.com/68930913/132567310-496fe44c-8236-4f1a-81c3-72f52e687b56.jpeg))
 
 Public servant in transition to the private market. Passionate about solving puzzles, I am also fascinated by programming and its aspects, currently bitten by the Python snake, but there is always room for new languages ​​and new knowledge.
 UNINTER Global Ambassador (Global Student Ambassadors), 2020-2021, mentored by Jason Dyett (Founding Executive Director of the Harvard University office in Brazil between 2006-2016), I always try to bring my best to help work teams, always with the ethics and competence that I consider essential in any work I do.
